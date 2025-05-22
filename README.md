@@ -1,11 +1,11 @@
-SmartDiet: Organização de Hábitos Alimentares em App Mobile
+# SmartDiet: Organização de Hábitos Alimentares em App Mobile
 
-🍽️ Sobre o Projeto
+## 🍽️ Sobre o Projeto
 O SmartDiet é um aplicativo móvel inovador projetado para ajudar os usuários a organizar e manter hábitos alimentares saudáveis. Com uma interface intuitiva e funcionalidades inteligentes, o aplicativo visa simplificar o processo de monitoramento da alimentação, oferecendo ferramentas para registro de refeições, acompanhamento de metas nutricionais e visualização do progresso ao longo do tempo.
 
 Este projeto é um trabalho acadêmico focado em demonstrar a aplicação de tecnologias modernas para resolver desafios do dia a dia relacionados à saúde e bem-estar.
 
-✨ Funcionalidades (Sugestões)
+## ✨ Funcionalidades (Sugestões)
 Registro de Refeições: Facilidade para adicionar o que foi consumido em cada refeição.
 
 Acompanhamento Nutricional: Visualização de calorias, macronutrientes e outros dados importantes.
@@ -16,7 +16,7 @@ Histórico e Estatísticas: Gráficos e relatórios sobre o progresso alimentar.
 
 Lembretes Personalizados: Notificações para horários de refeições e ingestão de água.
 
-🚀 Como Começar
+## 🚀 Como Começar
 Para rodar o projeto SmartDiet em sua máquina local, siga os passos abaixo:
 
 Pré-requisitos
@@ -49,6 +49,7 @@ ou
 yarn install
 ```
 
+
 Rodando o Aplicativo
 Após a instalação das dependências, você pode iniciar o aplicativo:
 
@@ -56,15 +57,16 @@ Após a instalação das dependências, você pode iniciar o aplicativo:
 npx expo start
 ```
 
-Isso abrirá uma nova aba no seu navegador com o Expo Dev Tools. A partir daí, você pode:
+ Isso abrirá uma nova aba no seu navegador com o Expo Dev Tools. A partir daí, você pode:
 
-Abrir o aplicativo no seu dispositivo Android ou iOS usando o aplicativo Expo Go.
+ Abrir o aplicativo no seu dispositivo Android ou iOS usando o aplicativo Expo Go.
 
-Rodar em um emulador Android ou simulador iOS.
+ Rodar em um emulador Android ou simulador iOS.
+ 
+ Visualizar no navegador web (funcionalidade limitada para apps React Native).
 
-Visualizar no navegador web (funcionalidade limitada para apps React Native).
+## 🛠️ Tecnologias Utilizadas
 
-🛠️ Tecnologias Utilizadas
 O SmartDiet é construído com as seguintes tecnologias:
 
 React Native: Framework para construção de aplicativos móveis nativos usando JavaScript e React.

@@ -80,6 +80,3 @@ React Navigation: Para navegação entre as telas do aplicativo.
 TypeScript: Linguagem de programação que adiciona tipagem estática ao JavaScript.
 
 ESLint: Ferramenta para identificar e reportar padrões problemáticos encontrados no código JavaScript/TypeScript.
-
-📄 Licença
-Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.

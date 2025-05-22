@@ -25,8 +25,9 @@ Certifique-se de ter o Node.js e o Expo CLI instalados em seu ambiente de desenv
 Node.js: Baixe e instale o Node.js (versão LTS recomendada).
 
 Expo CLI: Instale globalmente via npm:
-
+```bash
 npm install -g expo-cli
+````
 
 
 

@@ -27,38 +27,34 @@ Node.js: Baixe e instale o Node.js (versão LTS recomendada).
 Expo CLI: Instale globalmente via npm:
 ```bash
 npm install -g expo-cli
-````
-
-
+```
 
 Instalação
-Clone o repositório:
-
+1. Clone o repositório:
+```bash
 git clone https://github.com/Efitres/Imersao-BackEnd.git
 cd SmartDiet
-
-
+```
 
 (Lembre-se de substituir SmartDiet pelo nome da pasta do seu projeto, caso seja diferente após o clone)
 
-Instale as dependências:
-
+2. Instale as dependências:
+```bash
 npm install
-
-
+```
 
 ou
 
+```bash
 yarn install
-
-
+```
 
 Rodando o Aplicativo
 Após a instalação das dependências, você pode iniciar o aplicativo:
 
+```bash
 npx expo start
-
-
+```
 
 Isso abrirá uma nova aba no seu navegador com o Expo Dev Tools. A partir daí, você pode:
 
